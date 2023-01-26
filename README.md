@@ -1,6 +1,7 @@
-# react-native-expo-starter
+# React-Native-Expo-Starter 🚀
+![grafik](https://user-images.githubusercontent.com/114869997/214873746-7ece2434-1488-43ef-a3e8-c535c0912f93.png)
 
-This are instructions to initialize a React-Native project with Expo and Nativewind
+These are instructions to initialize a React-Native project with ```Expo```, ```Nativewind``` and ```React Navigation```
 
 ## 1. Install expo
 Source: https://docs.expo.dev/get-started/installation/
@@ -102,3 +103,4 @@ npx expo start
 npx expo start -c
 ```
 
+## This starter guide is constantly being improved and not a final version!
