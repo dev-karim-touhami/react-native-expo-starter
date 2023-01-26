@@ -90,3 +90,15 @@ export default function App() {
 -   },
 - });
 ```
+
+## Run app and start development server
+
+```
+npx expo start
+```
+
+*Note: When running the app for the first time tailwind might not be recognized directly so you have to clear the caches:*
+```
+npx expo start -c
+```
+
